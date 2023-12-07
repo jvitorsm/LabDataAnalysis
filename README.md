@@ -1,3 +1,3 @@
 # LabDataAnalysis
-That code was a project to analyse the indicators of the lab where i work
-The data was taken from xlsx document that store the data obtained from my analysis
+  Este foi um projeto de análises de dados executado com o intuitode de adquirir maiores 
+conhecimentos acerca da biblioteca pandas assim como as bibliotecas de plotagem.
